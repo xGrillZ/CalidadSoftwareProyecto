@@ -104,3 +104,22 @@ E:\ProgramasInstalados\OneDrive - CastroCarazo\UNIVERSIDAD\Licenciatura\IC-2022\
 E:\ProgramasInstalados\OneDrive - CastroCarazo\UNIVERSIDAD\Licenciatura\IC-2022\Calidad Software\TestCalculadora\Calculadora\TestCalculadora\obj\Debug\net5.0\ref\TestCalculadora.dll
 E:\ProgramasInstalados\OneDrive - CastroCarazo\UNIVERSIDAD\Licenciatura\IC-2022\Calidad Software\TestCalculadora\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.pdb
 E:\ProgramasInstalados\OneDrive - CastroCarazo\UNIVERSIDAD\Licenciatura\IC-2022\Calidad Software\TestCalculadora\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.genruntimeconfig.cache
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\Calculadora.deps.json
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.json
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\Calculadora.runtimeconfig.dev.json
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\Calculadora.exe
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\TestCalculadora.deps.json
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\TestCalculadora.dll
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\ref\TestCalculadora.dll
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\TestCalculadora.pdb
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\Calculadora.dll
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\bin\Debug\net5.0\Calculadora.pdb
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.csproj.AssemblyReference.cache
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.AssemblyInfoInputs.cache
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.AssemblyInfo.cs
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.csproj.CoreCompileInputs.cache
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.csproj.CopyComplete
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.dll
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\ref\TestCalculadora.dll
+E:\Steven\Universidad\Licenciatura\ProyectoJenkinsTest\CalidadSoftwareProyecto\Calculadora\TestCalculadora\obj\Debug\net5.0\TestCalculadora.pdb

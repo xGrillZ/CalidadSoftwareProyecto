@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProgramasInstalados\\OneDrive - CastroCarazo\\UNIVERSIDAD\\Licenciatura\\IC-2022\\Calidad Software\\TestCalculadora\\Calculadora\\TestCalculadora\\TestCalculadora.csproj",
+      "projectUniqueName": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkinsTest\\CalidadSoftwareProyecto\\Calculadora\\TestCalculadora\\TestCalculadora.csproj",
       "projectName": "TestCalculadora",
-      "projectPath": "E:\\ProgramasInstalados\\OneDrive - CastroCarazo\\UNIVERSIDAD\\Licenciatura\\IC-2022\\Calidad Software\\TestCalculadora\\Calculadora\\TestCalculadora\\TestCalculadora.csproj",
+      "projectPath": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkinsTest\\CalidadSoftwareProyecto\\Calculadora\\TestCalculadora\\TestCalculadora.csproj",
       "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-      "outputPath": "E:\\ProgramasInstalados\\OneDrive - CastroCarazo\\UNIVERSIDAD\\Licenciatura\\IC-2022\\Calidad Software\\TestCalculadora\\Calculadora\\TestCalculadora\\obj\\",
+      "outputPath": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkinsTest\\CalidadSoftwareProyecto\\Calculadora\\TestCalculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\ProgramasInstalados\\OneDrive - CastroCarazo\\UNIVERSIDAD\\Licenciatura\\IC-2022\\Calidad Software\\TestCalculadora\\Calculadora\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "E:\\ProgramasInstalados\\OneDrive - CastroCarazo\\UNIVERSIDAD\\Licenciatura\\IC-2022\\Calidad Software\\TestCalculadora\\Calculadora\\Calculadora\\Calculadora.csproj"
+            "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkinsTest\\CalidadSoftwareProyecto\\Calculadora\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkinsTest\\CalidadSoftwareProyecto\\Calculadora\\Calculadora\\Calculadora.csproj"
             }
           }
         }

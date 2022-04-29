@@ -10,6 +10,7 @@ namespace TestCalculadora
         [DataRow(4, 4, 8)]
         [DataRow(4, 0, 4)]
         [DataRow(0, 0, 0)]
+        [DataRow(1, 1, 2)]
         [TestMethod]
         public void sumaTest(int a, int b, int esperado)
         {

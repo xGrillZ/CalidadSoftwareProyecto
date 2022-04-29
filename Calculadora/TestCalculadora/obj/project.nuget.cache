@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SpWNcUIar4c/qloFvdfJDRsMFpqCtXAlHO8t4ER7kJNvC/qoQ6N3D1KxXnbi39RMaCIk59JxlsX6KOzpHifeIA==",
+  "dgSpecHash": "fagS6QPop9ErXzeJBrar/s7JCDfL8a2WWoTuEKAGgzlMbHKTW2kA7Hk9Qy8VNbUCCErJuPBg5MN6VvW6TpPUNw==",
   "success": true,
-  "projectFilePath": "E:\\ProgramasInstalados\\OneDrive - CastroCarazo\\UNIVERSIDAD\\Licenciatura\\IC-2022\\Calidad Software\\TestCalculadora\\Calculadora\\TestCalculadora\\TestCalculadora.csproj",
+  "projectFilePath": "E:\\Steven\\Universidad\\Licenciatura\\ProyectoJenkinsTest\\CalidadSoftwareProyecto\\Calculadora\\TestCalculadora\\TestCalculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steven\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
